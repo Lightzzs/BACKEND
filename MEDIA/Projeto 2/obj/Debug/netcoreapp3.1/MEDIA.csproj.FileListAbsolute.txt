@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.exe
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.deps.json
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.dll
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\bin\Debug\netcoreapp3.1\MEDIA.pdb
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.dll
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.pdb
+C:\Users\VINICIUS\Desktop\SENAI\BACKEND\MEDIA\obj\Debug\netcoreapp3.1\MEDIA.genruntimeconfig.cache
